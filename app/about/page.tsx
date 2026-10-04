@@ -112,7 +112,7 @@ export default function AboutPage() {
               }}
             >
               <img
-                src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=800&q=80"
+                src="/images/facility.svg"
                 alt="KFP R&D Facility"
                 style={{ width: '100%', height: '380px', objectFit: 'cover' }}
               />

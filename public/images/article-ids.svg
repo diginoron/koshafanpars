@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#091a32"/>
+      <stop offset="100%" stop-color="#0c2d58"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+
+  <!-- World Globe Grid Lines -->
+  <circle cx="400" cy="220" r="140" fill="none" stroke="rgba(0,180,216,0.3)" stroke-width="2"/>
+  <ellipse cx="400" cy="220" rx="140" ry="60" fill="none" stroke="rgba(0,180,216,0.2)" stroke-width="1.5"/>
+  <ellipse cx="400" cy="220" rx="70" ry="140" fill="none" stroke="rgba(0,180,216,0.2)" stroke-width="1.5"/>
+  <line x1="260" y1="220" x2="540" y2="220" stroke="rgba(0,180,216,0.3)" stroke-width="1.5"/>
+
+  <!-- Exhibition Badges -->
+  <rect x="230" y="195" width="130" height="50" rx="10" fill="#0284c7"/>
+  <text x="295" y="218" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="14" font-weight="bold">IDS COLOGNE</text>
+  <text x="295" y="235" text-anchor="middle" fill="#e0f2fe" font-family="Arial" font-size="11">GERMANY</text>
+
+  <rect x="440" y="195" width="130" height="50" rx="10" fill="#059669"/>
+  <text x="505" y="218" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="14" font-weight="bold">AEEDC DUBAI</text>
+  <text x="505" y="235" text-anchor="middle" fill="#d1fae5" font-family="Arial" font-size="11">UAE</text>
+
+  <rect x="220" y="390" width="360" height="40" rx="12" fill="rgba(0,0,0,0.5)" stroke="#38bdf8"/>
+  <text x="400" y="415" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="14" font-weight="bold">GLOBAL DENTAL EXHIBITIONS</text>
+</svg>

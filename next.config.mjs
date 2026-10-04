@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['images.unsplash.com', 'storage.kfp-dental.com', 'kfp-dental.com'],
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',

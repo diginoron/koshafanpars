@@ -46,7 +46,7 @@ export const articles: Article[] = [
     dateEn: 'Oct 04, 2024',
     authorFa: 'دکتر علیرضا معتمدی (متخصص پریودنتولوژی)',
     authorEn: 'Dr. Alireza Motamedi (Periodontist)',
-    image: 'https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=800&q=80',
+    image: '/images/article-sla.svg',
     tagsFa: ['ایمپلنت دندانی', 'سطح SLA', 'بیومتریال', 'اویتا'],
     tagsEn: ['Dental Implant', 'SLA Surface', 'Biomaterials', 'Avita']
   },
@@ -75,7 +75,7 @@ export const articles: Article[] = [
     dateEn: 'Sep 12, 2024',
     authorFa: 'مهندس وحید رضایی (سرپرست پشتیبانی فنی کوشایار)',
     authorEn: 'Vahid Rezaei (Koushayar Technical Lead)',
-    image: 'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=800&q=80',
+    image: '/images/article-furnace.svg',
     tagsFa: ['کوره پرسلن', 'پخت سرامیک', 'کالیبراسیون', 'کوشایار'],
     tagsEn: ['Porcelain Furnace', 'Ceramic Firing', 'Calibration', 'Koushayar']
   },
@@ -104,7 +104,7 @@ export const articles: Article[] = [
     dateEn: 'Jul 31, 2024',
     authorFa: 'دکتر مریم سعیدی (متخصص پروتزهای دندانی)',
     authorEn: 'Dr. Maryam Saeedi (Prosthodontist)',
-    image: 'https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=800&q=80',
+    image: '/images/article-digital.svg',
     tagsFa: ['کدکم', 'اسکنر سه بعدی', 'تریوس', 'میلینگ'],
     tagsEn: ['CAD/CAM', '3D Scanner', 'Trios', 'Milling']
   },
@@ -133,7 +133,7 @@ export const articles: Article[] = [
     dateEn: 'Jul 08, 2024',
     authorFa: 'روابط عمومی و امور بین‌الملل کوشافن پارس',
     authorEn: 'KFP Public Relations & International Affairs',
-    image: 'https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80',
+    image: '/images/article-ids.svg',
     tagsFa: ['نمایشگاه IDS', 'صادرات', 'کوشافن پارس', 'بین‌الملل'],
     tagsEn: ['IDS Cologne', 'Exports', 'KoushaFan Pars', 'Global']
   }

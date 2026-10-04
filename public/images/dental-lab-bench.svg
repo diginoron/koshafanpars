@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+
+  <!-- Top Overhead Light Shelf -->
+  <rect x="220" y="80" width="360" height="20" rx="4" fill="#38bdf8"/>
+  <rect x="260" y="100" width="280" height="8" fill="#ffffff" filter="drop-shadow(0 5px 15px #38bdf8)"/>
+
+  <!-- Backboard & Tool Pegs -->
+  <rect x="230" y="108" width="340" height="150" fill="#334155" stroke="#475569"/>
+  <!-- Utility Outlets & Gas Valves -->
+  <circle cx="280" cy="180" r="10" fill="#e2e8f0"/>
+  <circle cx="320" cy="180" r="10" fill="#e2e8f0"/>
+  <circle cx="500" cy="180" r="12" fill="#ef4444"/>
+  <circle cx="530" cy="180" r="12" fill="#3b82f6"/>
+
+  <!-- Tabletop (Corian / Stainless) -->
+  <rect x="180" y="258" width="440" height="26" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Suction Hood In Center of Table -->
+  <path d="M 360 258 L 440 258 L 420 220 L 380 220 Z" fill="#64748b" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="400" cy="235" r="10" fill="#0284c7"/>
+
+  <!-- Armrest Pads -->
+  <rect x="240" y="275" width="90" height="18" rx="6" fill="#1e293b"/>
+  <rect x="470" y="275" width="90" height="18" rx="6" fill="#1e293b"/>
+
+  <!-- Lower Drawers & Steel Legs -->
+  <rect x="200" y="284" width="120" height="140" rx="6" fill="#1e293b" stroke="#475569"/>
+  <line x1="210" y1="320" x2="310" y2="320" stroke="#64748b"/>
+  <line x1="210" y1="360" x2="310" y2="360" stroke="#64748b"/>
+  <line x1="210" y1="400" x2="310" y2="400" stroke="#64748b"/>
+
+  <rect x="480" y="284" width="120" height="140" rx="6" fill="#1e293b" stroke="#475569"/>
+  <line x1="490" y1="320" x2="590" y2="320" stroke="#64748b"/>
+  <line x1="490" y1="360" x2="590" y2="360" stroke="#64748b"/>
+  <line x1="490" y1="400" x2="590" y2="400" stroke="#64748b"/>
+
+  <!-- Title Badge -->
+  <rect x="270" y="24" width="260" height="32" rx="16" fill="rgba(56,189,248,0.15)" stroke="#38bdf8"/>
+  <text x="400" y="45" text-anchor="middle" fill="#38bdf8" font-family="Arial" font-size="13" font-weight="bold">DENTAL LAB WORKSTATION</text>
+</svg>

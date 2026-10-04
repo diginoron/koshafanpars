@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a192f"/>
+      <stop offset="50%" stop-color="#112240"/>
+      <stop offset="100%" stop-color="#020c1b"/>
+    </linearGradient>
+    <linearGradient id="pressPiston" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  
+  <!-- Outer Frame -->
+  <rect x="260" y="70" width="280" height="350" rx="20" fill="#1e293b" stroke="#38bdf8" stroke-width="2.5"/>
+  <rect x="290" y="100" width="220" height="150" rx="14" fill="#0f172a" stroke="#0284c7"/>
+
+  <!-- Press Piston Pneumatic Ram Column -->
+  <rect x="385" y="40" width="30" height="70" rx="4" fill="url(#pressPiston)"/>
+  <line x1="400" y1="30" x2="400" y2="100" stroke="#38bdf8" stroke-width="4"/>
+
+  <!-- Ceramic Ingot & Investment Ring Inside Chamber -->
+  <rect x="360" y="150" width="80" height="80" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <circle cx="400" cy="180" r="14" fill="#f59e0b"/>
+  <text x="400" y="215" text-anchor="middle" fill="#0f172a" font-family="Arial" font-size="11" font-weight="bold">PRESS RING</text>
+
+  <!-- Digital Control Screen -->
+  <rect x="290" y="275" width="220" height="115" rx="10" fill="#021024" stroke="#00b4d8"/>
+  <text x="310" y="305" fill="#38bdf8" font-family="Arial" font-size="13" font-weight="bold">PRESS: 4.2 BAR</text>
+  <text x="310" y="340" fill="#ffffff" font-family="Arial" font-size="26" font-weight="bold">925 °C</text>
+  <text x="420" y="338" fill="#06d6a0" font-family="Arial" font-size="12" font-weight="bold">ACTIVE</text>
+  
+  <!-- Badge -->
+  <rect x="310" y="18" width="180" height="32" rx="16" fill="rgba(0,180,216,0.2)" stroke="#38bdf8" stroke-width="1.5"/>
+  <text x="400" y="39" text-anchor="middle" fill="#38bdf8" font-family="Arial" font-size="13" font-weight="bold">KFP AT300P PRESS</text>
+</svg>

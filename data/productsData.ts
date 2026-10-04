@@ -54,7 +54,7 @@ export const products: Product[] = [
       'Power Supply': '220V / 1400W',
       'Dimensions & Weight': '40 × 38 × 56 cm / 26 kg'
     },
-    image: 'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=800&q=80',
+    image: '/images/at300-plus.svg',
     badgeFa: 'محصول برگزیده دانش‌بنیان',
     badgeEn: 'Knowledge-Based Choice'
   },
@@ -91,7 +91,7 @@ export const products: Product[] = [
       'Sensor Accuracy': '±0.5 °C',
       'Weight': '30 kg'
     },
-    image: 'https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=800&q=80',
+    image: '/images/at300p-press.svg',
     badgeFa: 'فناوری پرس سرامیک',
     badgeEn: 'Press Technology'
   },
@@ -128,7 +128,7 @@ export const products: Product[] = [
       'Elements': '4x Molybdenum Disilicide (MoSi2)',
       'Power Rating': '2800 W'
     },
-    image: 'https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=800&q=80',
+    image: '/images/zirconia-sintering.svg',
     badgeFa: 'دندانپزشکی دیجیتال',
     badgeEn: 'Digital Dentistry'
   },
@@ -167,7 +167,7 @@ export const products: Product[] = [
       'Material': 'Medical Grade 4 & 5 Titanium (ASTM F67/F136)',
       'Connection': '11° Morse Taper Conical Hex'
     },
-    image: 'https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=800&q=80',
+    image: '/images/avita-implant.svg',
     badgeFa: 'گارانتی مادام‌العمر',
     badgeEn: 'Lifetime Warranty'
   },
@@ -204,7 +204,7 @@ export const products: Product[] = [
       'Vacuum Pump': 'Dedicated Oil-Free',
       'Warranty': '2 Years Koushayar Official Warranty'
     },
-    image: 'https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=800&q=80',
+    image: '/images/at100-classic.svg',
     badgeFa: 'پرفروش‌ترین محصول',
     badgeEn: 'Best Seller'
   },
@@ -241,7 +241,7 @@ export const products: Product[] = [
       'Lighting': '6000K daylight shadow-free LED panel',
       'Typical Size': '120 × 65 × 85 cm'
     },
-    image: 'https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=800&q=80',
+    image: '/images/dental-lab-bench.svg',
     badgeFa: 'استاندارد ارگونومی',
     badgeEn: 'Ergonomic Standard'
   },
@@ -276,7 +276,7 @@ export const products: Product[] = [
       'Certifications': 'CE 0124 & US FDA',
       'Product Range': 'Ceramics, CAD/CAM Blocks, Acrylic Teeth, Stains'
     },
-    image: 'https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=800&q=80',
+    image: '/images/vita-ceramics.svg',
     badgeFa: 'نمایندگی رسمی آلمان',
     badgeEn: 'Official German Partner'
   },
@@ -311,7 +311,7 @@ export const products: Product[] = [
       'Milling Precision': '< 5 Microns',
       'Software': 'Fully compatible with Dental System & exocad'
     },
-    image: 'https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=800&q=80',
+    image: '/images/cadcam-3shape.svg',
     badgeFa: 'فناوری روز اروپا',
     badgeEn: 'European Technology'
   }

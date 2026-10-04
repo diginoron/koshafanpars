@@ -569,7 +569,7 @@ export default function HomePage() {
                 }}
               >
                 <img
-                  src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=800&q=80"
+                  src="/images/avita-implant.svg"
                   alt="Avita Dental Implant"
                   style={{ width: '100%', height: '420px', objectFit: 'cover' }}
                 />
